@@ -1,0 +1,21 @@
+{
+  "grid_size": 15,
+  "start_pos": [0, 0],
+  "battery_capacity": 100.0,
+  "action_costs": {
+    "move": 2.0,
+    "scan": 3.0,
+    "recharge_rate": 20.0
+  },
+  "charger_locations": [
+    [0, 0],
+    [14, 0]
+  ],
+  "eve_true_location": [11, 12],
+  "clues": [
+    {"pos": [4, 4], "type": "beacon_fragment", "bearing_hint": [11, 12]},
+    {"pos": [9, 6], "type": "encrypted_telemetry", "distance_hint": 6.32}
+  ],
+  "noise_std": 0.08,
+  "max_steps": 100
+}

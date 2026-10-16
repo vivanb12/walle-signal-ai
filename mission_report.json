@@ -1,0 +1,15 @@
+{
+  "final_inferred_location": [
+    11,
+    12
+  ],
+  "true_eve_location": [
+    11,
+    12
+  ],
+  "confidence_score": 0.982,
+  "total_steps": 69,
+  "clues_discovered": 0,
+  "final_battery": 49.0,
+  "target_reached": true
+}
